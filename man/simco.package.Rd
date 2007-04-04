@@ -12,8 +12,8 @@ Simco is a package that (1) imports Structure output files into R and (2) carrie
 \tabular{ll}{
 Package: \tab simco\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2007-04-4\cr
+Version: \tab 1.01\cr
+Date: \tab 2007-12-12\cr
 License: \tab GNU General Public Licence\cr
 }
 There are two functions included in this package:
@@ -32,7 +32,7 @@ Maintainer: Owen Jones
 \email{owen.jones@imperial.ac.uk}
 }
 \references{
-Rebbeck, CA, Jones, OR, & Tsai, IJ  (Submitted to \emph{Bioinformatics}) SimCo: A program to automate the comparison of multiple structure runs (available from \email{owen.jones@imperial.ac.uk})
+Rebbeck, CA, Jones, OR, & Tsai, IJ  (unpublished) SimCo: A program to automate the comparison of multiple structure runs (available from \email{owen.jones@imperial.ac.uk})
 
 Pritchard, J. K. et al. (2000) Inference of population structure using multilocus genotype data. \emph{Genetics}. 155, 945-959.
 }

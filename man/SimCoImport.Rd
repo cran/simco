@@ -21,7 +21,7 @@ For example:\cr
 
 \value{The output is a dataframe with columns of the confidence of assignment to a group and a run identifier (a CAPITAL letter). Rows are individual observations/samples.}
 \references{
-Rebbeck, CA, Jones, OR, & Tsai, IJ  (Submitted to \emph{Bioinformatics}) SimCo: A program to automate the comparison of multiple structure runs (available from \email{owen.jones@imperial.ac.uk})
+Rebbeck, CA, Jones, OR, & Tsai, IJ  (unpublished) SimCo: A program to automate the comparison of multiple structure runs (available from \email{owen.jones@imperial.ac.uk})
 
 Pritchard, J. K. et al. (2000) Inference of population structure using multilocus genotype data. \emph{Genetics}. 155, 945-959.
 }

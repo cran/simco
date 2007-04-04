@@ -1,0 +1,16 @@
+b1679a8b23f2883a08bce08b9607e151 *DESCRIPTION
+e966c42dc3fa5261b6b2684acb958d64 *LICENCE
+1a710f4743ecd832552bc0479b510ba4 *NAMESPACE
+28bcd562131dee8beeb42fda16baa4b8 *R/SimCoImport.R
+7b2b32379f2f08dae6eb446d15e13288 *R/SimCoef.R
+48d298de46b3863c250b91f1f448d71a *README
+1b9bd113c8abe56a86baaf39418162f6 *data/structureexample.txt
+d70feb6d4757abe435772f8d1df044c2 *docs/Jones_et_al_2007_SimCo_unpublished.doc
+85de9b75403dd7be32f469cfb8fc1249 *docs/K3run_6_f.txt
+d02c7db1f1425063a5068aca447b9e61 *docs/K3run_7_f.txt
+d347e4d0e615396beaaaa8f7bec5c465 *docs/K3run_8_f.txt
+c8368911a2c2eef23d581f7a8e737032 *docs/SimCo_instructions_R.pdf
+4dd0137e3c25e85307f1082e53a6739c *man/SimCoImport.Rd
+0f01953c0170932bf9423d819c78067c *man/SimCoef.Rd
+350e3c0197807733a2d628ba9c072089 *man/simco.package.Rd
+76f3c82430f4a2adf18f26858157aef2 *man/structureexample.Rd
